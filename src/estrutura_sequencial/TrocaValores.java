@@ -1,4 +1,10 @@
-/*6- Receba os valores em x e y. Efetua a troca de seus valores e mostre seus conteúdos. */
+
+/*
+   Nome do programa: TrocaValores
+   Objetivo: Receba os valores em x e y. Efetua a troca de seus valores e mostre seus conteúdos.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 

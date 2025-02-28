@@ -1,5 +1,12 @@
-/*8- Receba o valor de um depósito em poupança. Calcule e mostre o valor
-após 1 mês de aplicação sabendo que rende 1,3% a. m. */
+
+/*
+   Nome do programa: DepositoPoupanca
+   Objetivo: Receba o valor de um depósito em poupança. Calcule e mostre o valor 
+   após 1 mês de aplicação sabendo que rende 1,3% a. m.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
+
 
 package estrutura_sequencial;
 

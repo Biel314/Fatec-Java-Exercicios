@@ -1,5 +1,11 @@
-/*7- Receba os valores do comprimento, largura e altura de um paralelepípedo.
-Calcule e mostre seu volume. */
+
+/*
+   Nome do programa: VolumeParalelepipedo
+   Objetivo: Receba os valores do comprimento, largura e altura de um paralelepípedo.
+   Calcule e mostre seu volume
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 

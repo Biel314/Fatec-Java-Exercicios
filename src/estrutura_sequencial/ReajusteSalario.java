@@ -1,4 +1,10 @@
-/*2- Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%. */
+
+/*
+   Nome do programa: ReajusteSalario
+   Objetivo: Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 

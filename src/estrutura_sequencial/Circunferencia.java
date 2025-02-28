@@ -1,5 +1,11 @@
-/*11- Receba o raio de uma circunferência. Calcule e mostre o comprimento da
-circunferência. */
+
+/*
+   Nome do programa: Circunferencia
+   Objetivo: Receba o raio de uma circunferência. Calcule e mostre o comprimento da 
+   circunferência.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 

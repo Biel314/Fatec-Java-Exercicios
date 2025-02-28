@@ -1,6 +1,12 @@
-/*15- Receba os valores de 2 catetos de um triângulo retângulo. Calcule e mostre
-a hipotenusa. */
 
+/*
+   Nome do programa: Pitagoras
+   Objetivo: Receba os valores de 2 catetos de um triângulo retângulo. Calcule e mostre
+   a hipotenusa. 
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
+ 
 package estrutura_sequencial;
 
 import javax.swing.JOptionPane;

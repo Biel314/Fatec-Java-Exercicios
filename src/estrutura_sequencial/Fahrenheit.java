@@ -1,4 +1,12 @@
-/*4- Receba a temperatura em graus Celsius. Calcule e mostre a sua temperatura convertida em fahrenheit */
+
+/*
+   Nome do programa: Fahrenheit
+   Objetivo: Receba a temperatura em graus Celsius. Calcule e mostre a sua temperatura 
+   convertida em fahrenheit.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
+
 
 package estrutura_sequencial;
 

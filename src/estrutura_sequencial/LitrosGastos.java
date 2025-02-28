@@ -1,7 +1,11 @@
-/*17 - Calcule a quantidade de litros gastos em uma viagem, sabendo que o
-automóvel faz 12 km/l. Receber o tempo de percurso e a velocidade média. */
 
-/* revisão necessaria!!! */
+/*
+   Nome do programa: LitrosGastos
+   Objetivo: Calcule a quantidade de litros gastos em uma viagem, sabendo que o automóvel 
+   faz 12 km/l. Receber o tempo de percurso e a velocidade média.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 
@@ -19,7 +23,7 @@ public class LitrosGastos {
 		 
 		qtdLitros = (d / 12);
 		
-		JOptionPane.showMessageDialog(null, "A quantidade de litros gastos em uma viagem é de: " + qtdLitros);
+		JOptionPane.showMessageDialog(null, String.format("A quantidade de litros gastos em uma viagem é de: %.2f", qtdLitros));
 	}
 
 }

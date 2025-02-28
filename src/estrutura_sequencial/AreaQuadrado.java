@@ -1,4 +1,10 @@
-/*1- Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.*/
+
+/*
+   Nome do programa: AreaQuadrado
+   Objetivo: Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 

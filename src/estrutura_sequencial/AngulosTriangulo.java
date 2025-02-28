@@ -1,4 +1,10 @@
-/*14- Receba 2 ângulos de um triângulo. Calcule e mostre o valor do 3º ângulo. */
+
+/*
+   Nome do programa: AngulosTriangulo
+   Objetivo: Receba 2 ângulos de um triângulo. Calcule e mostre o valor do 3º ângulo.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 
@@ -14,7 +20,12 @@ public class AngulosTriangulo {
 		
 		ang3 = 180 - (ang1 + ang2);
 		
-		JOptionPane.showMessageDialog(null, "O terceiro angulo do triangulo é: " + ang3);
+		if(ang3 < 1 ) {
+			JOptionPane.showMessageDialog(null, "O resultado dará 0 ou um angulo negativo, ou seja, não é permitido!");
+		}
+		else {
+			JOptionPane.showMessageDialog(null, "O terceiro angulo do triangulo é: " + ang3);
+		}
 	}
 
 }

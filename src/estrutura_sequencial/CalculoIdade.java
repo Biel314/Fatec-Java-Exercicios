@@ -1,5 +1,11 @@
-/*12- Receba o ano de nascimento e o ano atual. Calcule e mostre a sua idade e
-quantos anos terá daqui a 17 anos. */
+
+/*
+   Nome do programa: CalculoIdade
+   Objetivo: Receba o ano de nascimento e o ano atual. Calcule e mostre a sua idade e 
+   quantos anos terá daqui a 17 anos.
+   Nome do Programador: Gabriel Ordonho
+   Data de desenvolvimento: 16/02/2025
+*/
 
 package estrutura_sequencial;
 
