@@ -4,6 +4,7 @@
    Objetivo: Receba 2 números reais. Calcule e mostre a diferença desses valores.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 10
 */
 
 package estrutura_sequencial;

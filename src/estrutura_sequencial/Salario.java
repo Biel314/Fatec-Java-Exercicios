@@ -8,6 +8,7 @@
    Líquido. Exiba o salário a receber.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 16
 */
 
 

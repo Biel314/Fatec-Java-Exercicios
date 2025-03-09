@@ -5,6 +5,7 @@
    Calcule e mostre as raízes reais (considerar que a equação possue 2 raízes).
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 5
 */
 
 package estrutura_sequencial;

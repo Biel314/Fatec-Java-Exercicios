@@ -5,6 +5,7 @@
    maior pelo menos valor.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 27/02/2025
+   Exercicio 18
 */
 
 package estrutura_decisao;
@@ -21,12 +22,12 @@ public class DifMaiorMenor {
 		if (v1 > v2) {
 			dif = v1 - v2;
 			
-			JOptionPane.showMessageDialog(null, "A diferença entre " + v1 + " e " + v2 + " é de " + dif);
+			JOptionPane.showMessageDialog(null, "A diferença entre " + v1 + " e " + v2 + " é de: " + dif);
 		}
 		else {
 			dif = v2 - v1;
 			
-			JOptionPane.showMessageDialog(null, "A diferença entre " + v2 + " e " + v1 + " é de " + dif);
+			JOptionPane.showMessageDialog(null, "A diferença entre " + v2 + " e " + v1 + " é de: " + dif);
 		}
 		
 	}

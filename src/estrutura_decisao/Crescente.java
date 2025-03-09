@@ -4,6 +4,7 @@
 	Objetivo: Receba 2 valores inteiros e diferentes. Mostre seus valores em ordem crescente.
 	Nome do Programador: Gabriel Ordonho
 	Data de desenvolvimento: 27/02/2025
+	Exercicio 22
 */
 
 package estrutura_decisao;

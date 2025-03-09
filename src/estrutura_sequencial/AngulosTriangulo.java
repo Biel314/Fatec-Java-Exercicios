@@ -4,6 +4,7 @@
    Objetivo: Receba 2 ângulos de um triângulo. Calcule e mostre o valor do 3º ângulo.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 14
 */
 
 package estrutura_sequencial;

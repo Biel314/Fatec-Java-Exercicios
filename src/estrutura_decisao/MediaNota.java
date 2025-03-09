@@ -8,6 +8,7 @@
 	c. Se a média for < 3,0 exibir “RETIDO”.
 	Nome do Programador: Gabriel Ordonho
 	Data de desenvolvimento: 27/02/2025
+	Exercicio 21
 */
 
 package estrutura_decisao;
@@ -26,11 +27,11 @@ public class MediaNota {
 		media = ((n1 + n2 + n3 + n4)/4);
 		
 		if (media >= 6) {
-			JOptionPane.showMessageDialog(null, "APROVADO, nota: " + media);
+			JOptionPane.showMessageDialog(null, "nota: " + media + ", está aprovado!");
 		} else if (media >= 3 && media < 6) {
-			JOptionPane.showMessageDialog(null, "EXAME, nota: " + media);
+			JOptionPane.showMessageDialog(null, "nota: " + media + ", precisará fazer um exame!");
 		} else {
-			JOptionPane.showMessageDialog(null, "RETIDO, nota: " + media);
+			JOptionPane.showMessageDialog(null, "nota: " + media + ", está retido!");
 		}
 	}
 }

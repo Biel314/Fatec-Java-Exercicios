@@ -5,6 +5,7 @@
    durará esse alimento sabendo que a pessoa consome 50g ao dia.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 13
 */
 
 package estrutura_sequencial;

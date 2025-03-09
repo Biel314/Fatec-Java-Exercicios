@@ -4,6 +4,7 @@
    Objetivo: Receba os 2 números inteiros. Calcule e mostre a soma dos quadrados.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 9
 */
 
 package estrutura_sequencial;

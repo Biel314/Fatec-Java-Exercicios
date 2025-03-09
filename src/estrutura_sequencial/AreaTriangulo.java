@@ -4,6 +4,7 @@
    Objetivo: Receba a base e a altura de um triângulo. Calcule e mostre a sua área.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 3
 */
 
 package estrutura_sequencial;

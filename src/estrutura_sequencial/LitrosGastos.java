@@ -5,6 +5,7 @@
    faz 12 km/l. Receber o tempo de percurso e a velocidade média.
    Nome do Programador: Gabriel Ordonho
    Data de desenvolvimento: 16/02/2025
+   Exercicio 17
 */
 
 package estrutura_sequencial;
